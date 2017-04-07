@@ -1,3 +1,3 @@
 # hello-world
 
-# This is a readme file for a useless repo
+This is a readme file for a useless repo
